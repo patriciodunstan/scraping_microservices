@@ -1,0 +1,8 @@
+{
+    "url": "https://www.zofri.cl/es-cl/Financiera/Paginas/EstadosFinancieros.aspx#/collapse1",
+    "elemento_principal": "table",
+    "elemento_filas": "table tr",
+    "nombre": "td:nth-child(1)",
+    "periodo": "td:nth-child(1)",
+    "fecha": "td:nth-child(2)"
+}

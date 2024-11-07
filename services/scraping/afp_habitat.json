@@ -1,0 +1,21 @@
+{
+    "url": "https://www.afphabitat.cl/nuestra-empresa/estatutos-y-estados-financieros/",
+    "elemento_principal": "div.select",
+    "elemento_filas": "div.financial-statements",
+    "nombre": "h3",
+    "periodo": "span.periodo",
+    "fecha": "span.fecha",
+    "acciones": {
+        "select_mes": {
+            "selector": "select[aria-label='Selecciona mes']",
+            "value": "Septiembre"
+        },
+        "select_año": {
+            "selector": "select[aria-label='Selecciona año']",
+            "value": "2024"
+        },
+        "boton_descarga": {
+            "selector": "text=Descargar Estado Financiero"
+        }
+    }
+}
